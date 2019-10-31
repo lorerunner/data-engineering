@@ -106,3 +106,6 @@ venv.bak/
 
 # pkl
 .pkl
+
+# idea
+.idea/
